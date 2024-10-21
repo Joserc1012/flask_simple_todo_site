@@ -1,0 +1,22 @@
+body { 
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.task-submit {
+    padding-top: 10px;
+}
+
+td {
+    text-align: center;
+    padding:5px;
+}
+
+th {
+    padding:20px;
+}
